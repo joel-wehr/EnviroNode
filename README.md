@@ -3,6 +3,13 @@ IoT Environmental Sensor Node (Electric Imp Imp004m/Bosch BME680)
 
 This project will contain all of the necessary information to create an IoT environmental sensor node based on the Bosch BME 680. 
   https://www.bosch-sensortec.com/bst/products/all_products/bme680
+  
+  Features:
+	WiFi & Bluetooth connectivity through Electric Imp
+	Gas, pressure, temperature & humidity sensors through BME680
+	3 axis accelerometer through LIS3DH
+	Ambient light level sensor through BlinkUp phototransistor
+  
 
  Physical enclosure:
   The initial physical enclosure is a plastic AA battery enclosure with optional wall mount by New Age Enclosures.
