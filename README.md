@@ -20,5 +20,7 @@ This project will contain all of the necessary information to create an IoT envi
     Web console
     Alexa integration
     Mobile app console
+	
+	Bosch software repository: https://github.com/BoschSensortec/BME680_driver
     
 All constructive ideas for functionality are welcome. Please contact me if interested.
